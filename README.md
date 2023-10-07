@@ -18,8 +18,18 @@ Este es un pequeño programa que automatiza la subida a GitHub mediante un peque
 ## Ejemplos de uso: 
 
 ![imagen del programa 1](./assets/pantalla1.png)
+
+
 > Aportación de la ruta absoluta de la carpeta deseada para realizar la acción requerida.
+
+
 ![imagen del programa 2](./assets/pantalla2.png)
+
+
 > Escritura del commit para insertar en el pusheo.
+
+
 ![imagen final ](./assets/pantalla3.png)
+
+
 > Por último se muestra el menú del programa con el cual se indica la tarea a realizar
