@@ -28,7 +28,7 @@ if %pregunta% == 3 goto stasheo
 if %pregunta% == 4 goto ayuda 
 if %pregunta% == 5 goto salir
 :pusheo
-git remote add origin main %origin%
+git remote add origin %origin%
 git branch -M main
 git push -u origin main
 echo.
